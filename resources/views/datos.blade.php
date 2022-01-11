@@ -8,7 +8,7 @@
     </nav>
     <section>
 <h1>
-    TITULO DATOS
+    prueba 2
 </h1>
     </section>
 
